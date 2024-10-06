@@ -2,6 +2,12 @@
 
 ⚡ Introduction:
 
+This project analyzes power generation and weather data from two solar plants over a period of 34 days.
+
+## Live Streamlit Dashboard
+
+You can view the live Streamlit dashboard here: [Streamlit Dashboard](https://solar-power-analysis-dashboard.streamlit.app/)
+
 This project focuses on analyzing solar power generation data from two plants. We aim to extract insights, visualize trends, and build an interactive dashboard using Streamlit to help stakeholders manage solar power generation efficiently.
 
 🚀 Core Functionality: The dashboard provides key insights into solar power generation trends, and plant performance, and helps identify patterns that could optimize energy production.
